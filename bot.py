@@ -5,8 +5,8 @@ import time
 GPIO.setmode(GPIO.BCM)
 
 # Set up motor pins as output
-motor1_pin_forward = 23
-motor1_pin_backward = 24
+motor1_pin_forward = 4
+motor1_pin_backward = 18
 motor2_pin_forward = 17
 motor2_pin_backward = 27
 
